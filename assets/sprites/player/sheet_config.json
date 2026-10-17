@@ -1,0 +1,8 @@
+{
+    "frame_width": 16,
+    "frame_height": 32,
+    "columns": 4,
+    "directions": ["down", "left", "right", "up"],
+    "walk_fps": 8,
+    "sheet_path": "res://assets/sprites/player/player_sheet.png"
+}
